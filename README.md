@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at **IIT Roo
 ## 📈 My Interests
 - 🌟 Artificial Intelligence & Machine Learning
 - 🌐 Blockchain & Decentralized Systems
-- 🧠 Quantum Computing Basics
+- 🧠 Quantum Computing 
 - 📊 Data Science & Analytics
 
 ---
