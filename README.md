@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at **IIT Roo
 - 📚 **Python Libraries**: Skilled in **pandas**, **numpy**, **scikit-learn**, and other AI/ML tools
 - 🤖 **AI/ML Expertise**: Familiar with the foundational concepts of **Artificial Intelligence** and **Machine Learning**
 - 🏆 **Achievements**: Completed the **Machine Learning Specialization** course on Coursera
-- 🌌 **Explorations**: Currently diving into **blockchain** 🧱 and the basics of **quantum computing** 🧑‍🔬
 
 ---
 
