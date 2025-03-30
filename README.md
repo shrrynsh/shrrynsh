@@ -45,6 +45,7 @@ I believe in the power of combining **logic** 🤔 and **creativity** 🎨 to so
 ## 📫 Let's Connect!
 - **GitHub**: [shrrynsh](https://github.com/shrrynsh)
 - **LinkedIn**: [Shreyansh Modi](https://www.linkedin.com/in/shreyanshmodi)
+- - **X**: [shrrynsh](https://x.com/shrrynsh)
 
 Feel free to explore my repositories, share your thoughts, or collaborate on exciting projects! 🌟
 
