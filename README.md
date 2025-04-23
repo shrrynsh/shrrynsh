@@ -1,5 +1,8 @@
 # Hi there, I'm Shreyansh! 👋
 
+
+
+
 Welcome to my GitHub profile! I'm an Electrical Engineering student at **IIT Roorkee** ⚡, passionate about technology, AI/ML, and emerging fields like blockchain and quantum computing. Here's a glimpse into my journey and interests:
 
 ---
@@ -37,8 +40,8 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at **IIT Roo
 
 ---
 
-## 🌟 Fun Fact
-I believe in the power of combining **logic** 🤔 and **creativity** 🎨 to solve real-world problems. 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrrynsh&hide=stars&show_icons=true)
+
 
 ---
 
