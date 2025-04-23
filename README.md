@@ -50,5 +50,5 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at **IIT Roo
 - **LinkedIn**: [Shreyansh Modi](https://www.linkedin.com/in/shreyanshmodi)
 - **X**: [shrrynsh](https://x.com/shrrynsh)
 
-Feel free to explore my repositories, share your thoughts, or collaborate on exciting projects! 🌟
+Feel free to explore my repositories, share your thoughts, or collaborate on exciting projects! 
 
