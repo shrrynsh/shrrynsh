@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at **IIT Roo
 ---
 
 ## 🚀 About Me
-- 🎓 **Pursuing**: Electrical Engineering @ IIT Roorkee
+- 🎓 **Pursuing**: Electrical Engineering @ IIT Roorkee, Member @DSG,IITR
 - 💻 **Languages**: Proficient in **C++** and **Python**
 - 📚 **Python Libraries**: Skilled in **pandas**, **numpy**, **scikit-learn**, and other AI/ML tools
 - 🤖 **AI/ML Expertise**: Familiar with the foundational concepts of **Artificial Intelligence** and **Machine Learning**
