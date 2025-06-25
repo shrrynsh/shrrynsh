@@ -3,22 +3,9 @@
 
 
 
-Welcome to my GitHub profile! I'm an Electrical Engineering student at **IIT Roorkee** ⚡, passionate about technology, AI/ML, and emerging fields like blockchain and quantum computing. Here's a glimpse into my journey and interests:
+Welcome to my GitHub profile! I'm an Electrical Engineering student at **IIT Roorkee** , passionate about technology, AI/ML.
 
----
 
-## 🚀 About Me
-- 🎓 **Pursuing**: Electrical Engineering @ IIT Roorkee, Member @DSG,IITR
-- 💻 **Languages**: Proficient in **C++** and **Python**
-- 📚 **Python Libraries**: Skilled in **pandas**, **numpy**, **scikit-learn**, and other AI/ML tools
-- 🤖 **AI/ML Expertise**: Familiar with the foundational concepts of **Artificial Intelligence** and **Machine Learning**
-
----
-
-## 💡 What I Do
-- **Build**: Projects leveraging AI/ML tools and techniques 🛠️
-- **Learn**: Constantly exploring new tech domains like blockchain and quantum computing 📖
-- **Collaborate**: Open to working with like-minded enthusiasts on innovative projects 🌐
 
 ---
 
@@ -33,9 +20,7 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at **IIT Roo
 ---
 
 ## 📈 My Interests
-- 🌟 Artificial Intelligence & Machine Learning
-- 🌐 Blockchain & Decentralized Systems
-- 🧠 Quantum Computing 
+- 🌟 Artificial Intelligence & Machine Learning 
 - 📊 Data Science & Analytics
 
 ---
